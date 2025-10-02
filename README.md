@@ -145,13 +145,7 @@ flowchart LR
 
 ### Later Phases
 
-- ⏳ Advanced search (actors, directors, keywords)
-- ⏳ User features (watchlists, personal ratings, reviews)
-- ⏳ Social features (follow users, activity feeds)
-- ⏳ Recommendation engine
-- ⏳ Admin panel for content management
-- ⏳ Advanced analytics and insights
-
+- ⏳ Advanced search (actors, directors, keywords- search based on few strings eg "Protagonists getting stuck on island post a shipwreck"
 ## 🛠️ Tech Stack
 
 ### Frontend
